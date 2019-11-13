@@ -1,0 +1,33 @@
+body {
+    margin: 0 auto;
+}
+
+html, body, section {
+font-size: 
+width: 100%;
+height: 100%
+}
+
+.mySlides {display:none;}
+
+p, h1, h2, h3, h4, h5 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.fullscreen-img-1 {
+    background-image: url("../img/motivated%20man%20bejee.jpeg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.fullscreen-img-2 {
+    background-image: url("../img/nappy%20motivated.jpeg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
